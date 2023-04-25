@@ -1,52 +1,34 @@
 # README Generator
 
-  ## Description
+## Description
 
-   This project was made to help generate Professional README MD files.
+The motivation behind making this project was to assist with the creation of a Professional README document. The use of inquirer was learned during the creation of this project.
 
-  ## Table of Contents
+## Installation
 
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Badges](#badges)
-  - [Features](#features)
-  - [How to Contribute](#how-to-contribute)
-  - [Tests](#tests)
-  - [Questions](#questions)
+N/A
 
-  ## Installation
+## Usage
 
-  The steps that need to be taken to install this project are the following: 1) Download the Repository 2) Install the NPM 3) run node index.js
+Please see the attached video to see how this program can be used.
 
-  ## Usage
 
-  once installed please run node index.js in the repository command line
 
-  ## Credits
+[Click here for Walkthrough Video](https://drive.google.com/file/d/1tJ0_UK6kGm9h1GiSHa9r5G6qrmC8vgt6/view)
 
-  NONE at this time
+To access our deployed website, please visit https://repopanda.github.io/spin-the-globe/ .
 
-  ## License 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+To access the GitHUb repository please visit : (https://github.com/RepoPanda/readme-generator)
 
-  ## Badges
+## Credits
 
-  NA
+N/A
 
-  ## Features
+## License
+N/A
 
-  Only generates a README.md document
+## Tests
 
-  ## How to Contribute
-
-  ## Tests
-
-  A video will be submitted short after finishing this project.
-
-  ## Questions
-
-  If you have any questions, please contact me at email@email.com or visit my GitHub page at [RepoPanda](
+N/A
 
   

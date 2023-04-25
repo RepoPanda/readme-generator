@@ -1,8 +1,8 @@
-# README Generator
+# Professional README Generator
 
   ## Description
 
-   This project was made to help generate Professional README MD files.
+   It generates professional README documents
 
   ## Table of Contents
 
@@ -18,35 +18,35 @@
 
   ## Installation
 
-  The steps that need to be taken to install this project are the following: 1) Download the Repository 2) Install the NPM 3) run node index.js
+  Installation would require you to download my repository and install inquirer
 
   ## Usage
 
-  once installed please run node index.js in the repository command line
+  You must run 'node index.js' in your terminal
 
   ## Credits
 
-  NONE at this time
+  None at this time
 
   ## License 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Badges
 
-  NA
+  None at the moment
 
   ## Features
 
-  Only generates a README.md document
+  not many
 
   ## How to Contribute
 
   ## Tests
 
-  A video will be submitted short after finishing this project.
+  none at the moment
 
   ## Questions
 
-  If you have any questions, please contact me at email@email.com or visit my GitHub page at [RepoPanda](
+  If you have any questions, please contact me at email@email.com or visit my GitHub page at [RepoPanda]
 
   
